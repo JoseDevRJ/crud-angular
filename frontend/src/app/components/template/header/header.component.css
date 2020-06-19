@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.header span {
+    display: flex;
+    align-items: center;
+    
+}
+
+.header i {
+    margin-right: 10px;
+}

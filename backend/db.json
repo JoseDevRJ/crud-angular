@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "name": "SmartTV Samsung",
+      "price": "2200",
+      "qte": "7",
+      "id": 1
+    }
+  ]
+}

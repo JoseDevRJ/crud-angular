@@ -1,0 +1,14 @@
+.home {
+    margin: 15px;
+}
+
+.title {
+    padding-top: 10px;
+    margin-bottom: 10px;
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.subtitle{
+    padding-top: 30px;
+}
